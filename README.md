@@ -1,2 +1,2 @@
 # AI-Learning-Companion
-15 minutes a day. One lesson. One conversation. A lifetime skill.
+AI Learning Companion helps everyday people understand, trust, and confidently use Artificial Intelligence through simple 15-minute daily learning experiences.
